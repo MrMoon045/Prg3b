@@ -1,0 +1,5 @@
+docker-compose build 
+docker-compose up
+<check localhost:5000>
+cltr + c
+docker-compose logs app2
